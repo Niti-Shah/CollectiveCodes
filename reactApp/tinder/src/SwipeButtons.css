@@ -1,0 +1,46 @@
+.swipeButtons{
+    position: fixed;
+    bottom: 10vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+
+
+.swipeButtons__repeat{
+    padding: 3vw !important;
+    color: rgb(226, 195, 58);
+    
+    background-color:white;
+    box-shadow: 0px 10px 53px 0px rgb(128, 123, 123) !important;
+}
+
+.swipeButtons__left{
+    padding: 3vw !important;
+    color: rgb(226, 116, 208);
+    background-color:white;
+    box-shadow: 0px 10px 53px 0px rgb(128, 123, 123) !important;
+}
+
+.swipeButtons__star{
+    padding: 3vw !important;
+    color: rgb(100, 177, 228);
+    background-color:white;
+    box-shadow: 0px 10px 53px 0px rgb(128, 123, 123) !important;
+}
+
+.swipeButtons__right{
+    padding: 3vw !important;
+    color: rgb(60, 235, 133);
+    background-color:white;
+    box-shadow: 0px 10px 53px 0px rgb(128, 123, 123) !important;
+}
+
+.swipeButtons__lightning{
+    padding: 3vw !important;
+    color: rgb(186, 116, 226);
+    background-color:white;
+    box-shadow: 0px 10px 53px 0px rgb(128, 123, 123) !important;
+}
+
